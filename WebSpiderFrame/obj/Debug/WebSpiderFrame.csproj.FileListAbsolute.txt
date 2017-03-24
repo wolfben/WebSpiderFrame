@@ -1,0 +1,9 @@
+D:\工作\GitProject\WebSpiderFrame\WebSpiderFrame\bin\Debug\WebSpiderFrame.exe
+D:\工作\GitProject\WebSpiderFrame\WebSpiderFrame\bin\Debug\WebSpiderFrame.pdb
+D:\工作\GitProject\WebSpiderFrame\WebSpiderFrame\bin\Debug\HtmlAgilityPack.dll
+D:\工作\GitProject\WebSpiderFrame\WebSpiderFrame\bin\Debug\WebDriver.dll
+D:\工作\GitProject\WebSpiderFrame\WebSpiderFrame\bin\Debug\HtmlAgilityPack.pdb
+D:\工作\GitProject\WebSpiderFrame\WebSpiderFrame\bin\Debug\HtmlAgilityPack.xml
+D:\工作\GitProject\WebSpiderFrame\WebSpiderFrame\bin\Debug\WebDriver.xml
+D:\工作\GitProject\WebSpiderFrame\WebSpiderFrame\obj\Debug\WebSpiderFrame.exe
+D:\工作\GitProject\WebSpiderFrame\WebSpiderFrame\obj\Debug\WebSpiderFrame.pdb
